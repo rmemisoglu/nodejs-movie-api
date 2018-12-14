@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "nodejs-movie-api", "nodejs-movie-api\nodejs-movie-api.njsproj", "{8B91B1AB-B53C-49BF-9737-B1391EFAF939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B91B1AB-B53C-49BF-9737-B1391EFAF939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B91B1AB-B53C-49BF-9737-B1391EFAF939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B91B1AB-B53C-49BF-9737-B1391EFAF939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B91B1AB-B53C-49BF-9737-B1391EFAF939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89411C68-16BF-4A05-B6A5-706239469AE6}
+	EndGlobalSection
+EndGlobal

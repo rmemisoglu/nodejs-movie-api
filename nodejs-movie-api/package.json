@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-movie-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app",
+    "test": "mocha --exit --recursive --timeout 5000"
+
+  },
+  "description": "nodejs-movie-api",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
